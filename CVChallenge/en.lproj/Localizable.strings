@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  CVChallenge
+
+  Created by isela on 6/17/19.
+  Copyright © 2019 isela. All rights reserved.
+*/
+
+"experience_list_title" = "Professional experience";
+"detail_view_title" = "Experience detail";
+"loading_message" = "Please wait...";
+"generic_error_message" = "Failed";
+"data_error" = "An error ocurred while processing the data";
+"resource_found_error" = "The network resource could not be found";
+"network_error" = "There is not Internet connection";
+"no_data_found" = "There's no data to show";
